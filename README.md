@@ -46,6 +46,3 @@ The `.github/workflows` directory includes CI configurations that:
    * Navigate to the **Actions** tab on GitHub to view real-time CI execution and logs.
 
 
-
-**Deepak Kumar**
-[GitHub Profile](https://github.com/doomerdpk-1802)
